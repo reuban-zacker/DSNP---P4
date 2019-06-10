@@ -1,6 +1,6 @@
 # Project Title
 
-Dive Into Boston and Seattle Airbnb Data
+A Quick Picture of Boston and Seattle Airbnb Data
 
 ## Project Motivation
 
